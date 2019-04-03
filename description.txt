@@ -1,0 +1,143 @@
+Intro:
+Welcome to my game
+
+Number of Rooms:
+9
+
+Rooms:
+RN: Cave
+LD: The treasure map has lead you to this point. There is an open way ||
+leading deep into the cave. You can feel a chilling draft heading east. ||
+You need to find your way to find the treasure hidden inside.
+SD: The mouth of the cave. There is a clear path east and some light shinning  ||
+through some rubble to the west.
+IN: door
+ID: secret door
+RC: -1 1 -1 -1
+#
+
+RN:
+Statue Cavern
+LD:
+At first sight, a big luxurious statue is standing in the back of the ||
+room. The statue is in the middle of a T-junction with the cave. ||
+This area seems to hold some sort of significance.
+SD:
+A luxurious statue is against the back wall.
+IN:
+statue
+ID:
+The statue has three distinct spots in which one already has a sapphire placed.
+RC:
+2 -1 0 3
+#
+
+RN:
+Cold Dark Cavern
+LD:
+This part of the cave is very cold. Interestingly, there is a mine cart ||
+leading off to the east. It is the the only other way.
+SD:
+This room is rather empty besides the cave roller-coaster!
+IN:
+none
+ID:
+none
+RC:
+-1 6 -1 1
+#
+
+RN:
+Crystal Cavern
+LD:
+This area has a lot of crystals hanging from the ceiling. ||
+This rocks however seem to be impossible to obtain. There are ||
+many routes from here.
+SD:
+This junction in the cave has many routes to follow.
+IN:
+none
+ID:
+none
+RC:
+1 5 -1 4
+#
+
+RN:
+Ledge
+LD:
+There is a giant hole right ahead but it looks to be safe to go down. ||
+It appears to veer off to the west. There is also a corpse propped against ||
+the cave wall with a bag spilled on the floor. You notice a red shiny rock.
+SD:
+There is a hole leading to the west. You also noticed a ruby here.
+IN:
+ruby
+ID:
+A ruby!
+RC:
+3 -1 0 -1
+#
+
+RN:
+Coaster End Cavern
+LD:
+This part of the cave is also dark and cold. There is cart system, ||
+but it only appears to come from another direction. It is quite clear ||
+that the only path leads to the west.
+SD:
+This cavern leads to the west.
+IN:
+none
+ID:
+none
+RC:
+-1 -1 3 -1
+#
+
+RN:
+Rail Cart Junction
+LD:
+The rail you rode in on comes to a stop. Here you can notice a pickaxe ||
+laying on the ground. You also notice the other rail cart ||
+leading to the south of this room.
+SD:
+You noticed a pickaxe here, and another rail cart leading south.
+IN:
+pickaxe
+ID:
+This can be used to break through rubble.
+RC:
+-1 -1 -1 5
+#
+
+RN:
+Secret Cavern
+LD:
+This part of the cave had been hidden by brush and rubble, but you ||
+smashed your way through. You noticed that the room leads to nowhere, ||
+but there is a shiny green rock on the floor.
+SD:
+You noticed an emerald here, but this room leads to nowhere.
+IN:
+emerald
+ID:
+An emerald
+RC:
+-1 0 -1 -1
+#
+
+RN:
+Treasure Pit
+LD:
+There is giant chest with loads of gold and jewels! You did it! ||
+You got the gold and made it though the cave.
+SD:
+Treasure Chest
+IN:
+none
+ID:
+none
+RC:
+-1 -1 -1 -1
+#
